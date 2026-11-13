@@ -1,3 +1,8 @@
+# PS No. 59: Space Shooter
+# Student Name: Nushrat Ansari
+# Class: BCA 1st Semester (Section 1C)
+# Subject: Programming Fundamentals Using Python (RU-100-05-00058)
+# University: Rungta International Skills University
 
 import pygame
 import random
